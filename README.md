@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udana Indumini</h1>
-<h3 align="center">A passionate undergraduate from IIT(SriLanka)</h3>
+<h3 align="center">A passionate Software Engineering undergraduate from IIT(SriLanka)</h3>
 
 <p align="left"> <a href="https://twitter.com/eaudana26" target="blank"><img src="https://img.shields.io/twitter/follow/eaudana26?logo=twitter&style=for-the-badge" alt="eaudana26" /></a> </p>
 
@@ -8,6 +8,7 @@
 <a href="https://twitter.com/eaudana26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eaudana26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/udana indumini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udana indumini" height="30" width="40" /></a>
 <a href="https://instagram.com/ea_udana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ea_udana" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@udana_20221179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@udana_20221179" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,8 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eaudana&show_icons=true&locale=en" alt="eaudana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eaudana&" alt="eaudana" /></p>
-
-<!---
-eaudana/eaudana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
