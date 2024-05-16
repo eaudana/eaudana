@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **eaudana@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M6FaaXiQ8ARXnzlirVvC--4VhXFRfetS/view?usp=drive_link](https://drive.google.com/file/d/1M6FaaXiQ8ARXnzlirVvC--4VhXFRfetS/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TediqZcZskM9mfcXXWUZORkClWEeKMSy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
