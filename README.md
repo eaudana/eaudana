@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/eaudana26" target="blank"><img src="https://img.shields.io/twitter/follow/eaudana26?logo=twitter&style=for-the-badge" alt="eaudana26" /></a> </p>
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning **React** and **React-Native**
 
 - 📫 How to reach me **eaudana@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M6FaaXiQ8ARXnzlirVvC--4VhXFRfetS/view?usp=drive_link](https://drive.google.com/file/d/1M6FaaXiQ8ARXnzlirVvC--4VhXFRfetS/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
